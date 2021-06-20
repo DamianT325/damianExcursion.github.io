@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+header h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+}
+a{
+    margin-top: 25px;
+    display: block;
+    font-size: 16px;
+    color:aquamarine;
+    text-align: center;
+}
+#video video{
+    display: block;
+    margin: auto;
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+.travel h2{
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.travel p{
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+.travel img{
+    padding-top: 10px;
+    display: block;
+    margin: auto;
+}
+.coming-soon img{
+    padding: 20px;
+    display: block;
+    margin: auto;
+}
+.coming-soon h1{
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+footer p{
+    padding-right: 5px;
+    color: gray;
+    font-size: 18px;
+    text-align: right;
+}
